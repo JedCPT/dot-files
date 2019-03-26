@@ -17,6 +17,7 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'taohex/lightline-buffer'
 Plugin 'lervag/vimtex'
+Plugin 'rust-lang/rust.vim'
 
 "Plugin 'honza/vim-snippets' 
 " Snippets are separated from the engine. Add this if you want them:
