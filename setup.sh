@@ -11,6 +11,8 @@ brew install wget
 
 brew cask install iterm2
 
+brew cask install visual-studio-code
+
 # Install Python linter
 #brew install flake8
 
