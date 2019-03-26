@@ -1,0 +1,18 @@
+{
+    "vim.useSystemClipboard": true,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": [
+                "j",
+                "j"
+            ],
+            "after": [
+                "<Esc>"
+            ]
+        }
+    ],
+    "terminal.integrated.shell.osx": "fish",
+    "editor.detectIndentation": false,
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 4
+}
