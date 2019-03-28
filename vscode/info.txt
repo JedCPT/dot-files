@@ -1,4 +1,4 @@
-Symlink snippets, and keybinding.json to '$HOME/Library/Application Support/Code/User/'
+Symlink snippets, keybinding.json and setting.json to '$HOME/Library/Application Support/Code/User/'
 Symlink .vscode to ~
 
 To allow for press and hold to work in vscode run the following two commands in the terminal.
