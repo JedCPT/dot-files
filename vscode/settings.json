@@ -14,5 +14,6 @@
     "terminal.integrated.shell.osx": "fish",
     "editor.detectIndentation": false,
     "editor.minimap.enabled": false,
-    "editor.tabSize": 4
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Default Light+"
 }
