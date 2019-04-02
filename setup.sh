@@ -44,3 +44,6 @@ rustup-init
 
 #
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+# Java install
+brew cask install java
