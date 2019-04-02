@@ -8,10 +8,6 @@ Install Vundle by running
 
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 
-Install ctags:
-
-brew install ctags
-
 Open vim and run
 
 :PluginInstall 
